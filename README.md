@@ -72,7 +72,7 @@
 
 ###  🤝🏻 &nbsp;`Connect with Me`
 <p>
-<a href="https://soumadipdas..herokuapp.com"><img src="https://img.shields.io/badge/-soumadipdas.herokuapp.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://soumadipdas.herokuapp.com"><img src="https://img.shields.io/badge/-soumadipdas.herokuapp.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/soumadip-das-6031631b9"><img src="https://img.shields.io/badge/-Soumadip%20Das-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:soumadipdas18@yahoo.com"><img src="https://img.shields.io/badge/-soumadipdas18@yahoo.com-D14836?style=flat-square&logo=Yahoo&logoColor=white"/></a>
 
