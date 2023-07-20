@@ -15,10 +15,7 @@
 ### 💻&nbsp; `About Me`
 <img align="right" width="220px"  src="doge.gif">
 
-- 🌱 &nbsp;I am passionate about App and Web development, have explored Game Development a bit.
-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-- 🔭 I’m currently working on [event scheduler app](https://github.com/pranjal198/event_scheduler) 
-- 🌱 I’m currently studying for semester exams.
+- 🌱 &nbsp; Interests - Numerical Analysis, Computational fluid dynamics
 - 👨‍💻 All of my projects are available at [here](https://github.com/Soumadipdas18?tab=repositories)
 - ✨ Here's my <a href = "https://profile-summary-for-github.com/user/Soumadipdas18" />Profile Summary</a> have a look!
 - 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
