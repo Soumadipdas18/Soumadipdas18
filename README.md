@@ -15,7 +15,7 @@
 ### 💻&nbsp; `About Me`
 <img align="right" width="220px"  src="doge.gif">
 
-- 🌱 &nbsp; Interests - Numerical Analysis, Computational fluid dynamics
+- 🌱 &nbsp; Interests - Numerical Analysis, Computational fluid dynamics, Molecular dynamics
 - 👨‍💻 All of my projects are available at [here](https://github.com/Soumadipdas18?tab=repositories)
 - ✨ Here's my <a href = "https://profile-summary-for-github.com/user/Soumadipdas18" />Profile Summary</a> have a look!
 - 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
