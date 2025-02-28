@@ -16,7 +16,7 @@
 <img align="right" width="220px"  src="doge.gif">
 
 - 🌱 &nbsp; Interests - Numerical Analysis, Computational fluid dynamics, Molecular dynamics
-- 👨‍💻 All of my projects are available at [here](https://github.com/Soumadipdas18?tab=repositories)
+- 👨‍💻 Trying to advent into machine learning and its applications in the field of chemical engineering
 - ✨ Here's my <a href = "https://profile-summary-for-github.com/user/Soumadipdas18" />Profile Summary</a> have a look!
 - 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
 - ✉️ &nbsp;You can shoot me an email at soumadipdas18@yahoo.com! I'll try to respond as soon as I can.</br></br>
@@ -30,12 +30,7 @@
   </a>
 </p>
 
-### 📊&nbsp; `My Contribution Graph`
-<p>
-<a href="https://github.com/Soumadipdas18">
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=soumadipdas18&custom_title=Soumadip%20Das's%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
-</a>
-</p>
+
 
 ###  🤝🏻 &nbsp;`Connect with Me`
 <p>
