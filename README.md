@@ -16,7 +16,7 @@
 <img align="right" width="220px"  src="doge.gif">
 
 - 🌱 &nbsp; Interests - Numerical Analysis, Computational fluid dynamics, Molecular dynamics
-- 👨‍💻 Trying to advent into machine learning and its applications in the field of chemical engineering
+- 👨‍💻 Trying to advent into physics informed machine learning and its applications in chemical engineering problems
 - ✨ Here's my <a href = "https://profile-summary-for-github.com/user/Soumadipdas18" />Profile Summary</a> have a look!
 - 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
 - ✉️ &nbsp;You can shoot me an email at soumadipdas18@yahoo.com! I'll try to respond as soon as I can.</br></br>
