@@ -34,7 +34,7 @@
 
 ###  🤝🏻 &nbsp;`Connect with Me`
 <p>
-<a href="https://soumadipdas.netlify.app/"><img src="https://img.shields.io/badge/-soumadipdas.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://soumadipdas.netlify.app/"><img src="https://img.shields.io/badge/-soumadipdas.netlify.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/soumadip-das-6031631b9"><img src="https://img.shields.io/badge/-Soumadip%20Das-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:soumadipdas06@gmail.com"><img src="https://img.shields.io/badge/-soumadipdas06@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
