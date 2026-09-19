@@ -11,7 +11,6 @@
   />
 </p>
 
-
 - 🔬 I’m currently working on **Process Systems Engineering**, where optimization meets engineering systems.
 
 - ⚙️ I like turning complex process problems into models that can actually be solved.
@@ -22,122 +21,177 @@
 <p align="left">
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Python" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="Python"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"
-       alt="Julia" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"
+    alt="Julia"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"
-       alt="MATLAB" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"
+    alt="MATLAB"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
-       alt="TensorFlow" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+    alt="TensorFlow"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
-       alt="scikit-learn" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
+    alt="scikit-learn"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
-       alt="NumPy" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+    alt="NumPy"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-       alt="pandas" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+    alt="pandas"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-       alt="Git" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="Git"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/github/888888"
-       alt="GitHub" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://cdn.simpleicons.org/github/888888"
+    alt="GitHub"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-       alt="VS Code" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+    alt="VS Code"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/latex/008080"
-       alt="LaTeX" width="48" height="48"/>
-</a>&nbsp;&nbsp;
+  <img
+    src="https://cdn.simpleicons.org/latex/008080"
+    alt="LaTeX"
+    width="48"
+    height="48"
+  />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/overleaf/47A141"
-       alt="Overleaf" width="48" height="48"/>
+  <img
+    src="https://cdn.simpleicons.org/overleaf/47A141"
+    alt="Overleaf"
+    width="48"
+    height="48"
+  />
 </a>
 
 </p>
 
 <p align="left">
-  <img
-    src="https://img.shields.io/badge/JuMP-Julia-9558B2?style=for-the-badge"
-    alt="JuMP"
-  />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/GAMS-Optimization-1F6FEB?style=for-the-badge"
-    alt="GAMS"
-  />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Gurobi-Optimization-EE3524?style=for-the-badge"
-    alt="Gurobi"
-  />
+
+<img
+  src="https://img.shields.io/badge/JuMP-Julia-9558B2?style=for-the-badge"
+  alt="JuMP"
+/>
+&nbsp;
+
+<img
+  src="https://img.shields.io/badge/GAMS-Optimization-1F6FEB?style=for-the-badge"
+  alt="GAMS"
+/>
+&nbsp;
+
+<img
+  src="https://img.shields.io/badge/Gurobi-Optimization-EE3524?style=for-the-badge"
+  alt="Gurobi"
+/>
+
 </p>
 
 
 ### 📊 GitHub Stats
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=soumadipdas18&show_icons=true&locale=en"
-        alt="Soumadip's GitHub Stats"
-        width="100%"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumadipdas18&layout=compact"
-        alt="Most Used Languages"
-        width="100%"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=soumadipdas18"
-        alt="GitHub Activity Graph"
-        width="100%"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://metrics.lecoq.io/soumadipdas18"
-        alt="GitHub Metrics"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
 
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=soumadipdas18&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      width="49%"
+      src="https://github-stats-extended.vercel.app/api?username=soumadipdas18&show_icons=true&include_all_commits=true&rank_icon=github&theme=light_github"
+      alt="Soumadip's GitHub Stats"
+    />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=soumadipdas18&layout=compact&langs_count=8&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      width="32%"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=soumadipdas18&layout=compact&langs_count=8&theme=light_github"
+      alt="Most Used Languages"
+    />
+  </picture>
+
+</p>
 
 ### 🤝 Connect with Me
 
@@ -167,4 +221,3 @@
 </a>
 
 </p>
-
