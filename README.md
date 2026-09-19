@@ -142,24 +142,20 @@
 </p>
 
 <p align="left">
-
 <img
   src="https://img.shields.io/badge/JuMP-Julia-9558B2?style=for-the-badge"
   alt="JuMP"
 />
 &nbsp;
-
 <img
   src="https://img.shields.io/badge/GAMS-Optimization-1F6FEB?style=for-the-badge"
   alt="GAMS"
 />
 &nbsp;
-
 <img
   src="https://img.shields.io/badge/Gurobi-Optimization-EE3524?style=for-the-badge"
   alt="Gurobi"
 />
-
 </p>
 
 
