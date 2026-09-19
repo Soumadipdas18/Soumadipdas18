@@ -11,13 +11,11 @@
   />
 </p>
 
----
 
 - 🔬 I’m currently working on **Process Systems Engineering**, where optimization meets engineering systems.
 
 - ⚙️ I like turning complex process problems into models that can actually be solved.
 
----
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 
@@ -102,7 +100,6 @@
   />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
@@ -141,7 +138,6 @@
   </tr>
 </table>
 
----
 
 ### 🤝 Connect with Me
 
