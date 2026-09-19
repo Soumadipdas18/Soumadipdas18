@@ -1,82 +1,174 @@
+<h1 align="center">Hi 👋, I'm Soumadip Das</h1>
 
-<!--  # <h1 align="center">Hi there 👋, my name is Soumadip Das</h1>
-## <h2 align="center"></h2> -->
-<h1 align="center">Hello👋🏻, I am</br><a href="https://github.com/Soumadipdas18">
-<img src = "soumadipdas.svg"/></a></br></h1>
-
-<!-- 
-### Hi there 👋
-
-## I'm Soumadip. -->
-<!-- 
- -->
-
-
-### 💻&nbsp; `About Me`
-<img align="right" width="220px"  src="doge.gif">
-
-- 🌱 &nbsp; Interests - Numerical Analysis, Computational optimization
-- 👨‍💻 Trying to advent into physics informed machine learning and its applications in chemical engineering problems
-- ✨ Here's my <a href = "https://profile-summary-for-github.com/user/Soumadipdas18" />Profile Summary</a> have a look!
-- 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
-- ✉️ &nbsp;You can shoot me an email at soumadipdas18@yahoo.com! I'll try to respond as soon as I can.</br></br>
-
-
-### 📈&nbsp; `My Stats`
-<p display="flex" width="100%">
-<a href="https://github.com/Soumadipdas18">
-  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=Soumadipdas18&show_icons=true&custom_title=Github%20Stats&theme=gruvbox&hide_border=true&area=true" />
-  <img align="center" height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Soumadipdas18&custom_title=Most%20Used%20Languages&theme=gruvbox&hide_border=true&area=true&layout=compact" />
-  </a>
+<p align="center">
+  <b>PhD Researcher @ Purdue | Process Systems Engineering</b>
 </p>
 
-
-
-###  🤝🏻 &nbsp;`Connect with Me`
-<p>
-<a href="https://soumadipdas.netlify.app/"><img src="https://img.shields.io/badge/-soumadipdas.netlify.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/soumadip-das-6031631b9"><img src="https://img.shields.io/badge/-Soumadip%20Das-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:soumadipdas06@gmail.com"><img src="https://img.shields.io/badge/-soumadipdas06@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Soumadipdas18&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
-<a href="https://github.com/Soumadipdas18">
-  <img align="middle" width="100%" src = "bottom-footer.svg">
-</a>
-<!-- 
 
+---
 
-## 🧰 Languages and Tools:
+- 🔬 I’m currently working on **Process Systems Engineering**, where optimization meets engineering systems.
+
+- ⚙️ I like turning complex process problems into models that can actually be solved.
+
+---
+
+<h3 align="left">🧰 Languages and Tools:</h3>
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://julialang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"
+       alt="Julia" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"
+       alt="MATLAB" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+       alt="TensorFlow" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
+       alt="scikit-learn" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+       alt="NumPy" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+       alt="pandas" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+       alt="Git" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/github/888888"
+       alt="GitHub" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+       alt="VS Code" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/latex/008080"
+       alt="LaTeX" width="48" height="48"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/overleaf/47A141"
+       alt="Overleaf" width="48" height="48"/>
+</a>
+
 </p>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/JuMP-Julia-9558B2?style=for-the-badge"
+    alt="JuMP"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/GAMS-Optimization-1F6FEB?style=for-the-badge"
+    alt="GAMS"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/Gurobi-Optimization-EE3524?style=for-the-badge"
+    alt="Gurobi"
+  />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soumadipdas18)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+### 📊 GitHub Stats
 
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumadipdas18)](https://github.com/anuraghazra/github-readme-stats)</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=soumadipdas18&show_icons=true&locale=en"
+        alt="Soumadip's GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumadipdas18&layout=compact"
+        alt="Most Used Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=soumadipdas18"
+        alt="GitHub Activity Graph"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://metrics.lecoq.io/soumadipdas18"
+        alt="GitHub Metrics"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumadipdas18&show_icons=true)  
+### 🤝 Connect with Me
 
+<p align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=soumadipdas18)  
+<a href="https://www.soumadipdas.com/">
+  <img
+    src="https://img.shields.io/badge/Website-soumadipdas.com-black?style=flat-square&logo=googlechrome&logoColor=white"
+    alt="Website"
+  />
+</a>
+&nbsp;
 
+<a href="https://www.linkedin.com/in/soumadip-das-6031631b9">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Soumadip%20Das-0077B5?style=flat-square&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+&nbsp;
 
-![GitHub metrics](https://metrics.lecoq.io/soumadipdas18)  
+<a href="mailto:soumadipdas18@yahoo.com">
+  <img
+    src="https://img.shields.io/badge/Email-soumadipdas18%40yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=white"
+    alt="Email"
+  />
+</a>
 
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=soumadipdas18)  
- -->
